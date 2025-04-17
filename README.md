@@ -133,3 +133,6 @@ options:
                         To display computation to Console
 
 ```
+
+## New Features
+
